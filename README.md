@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 been developing and maintaining the user iterface for more than 1 year.
+🔭 been developing and maintaining the user interface for more than 1 year.
 <br>
 🌱 Always ready to learn and develop new tech skills.
 <br>
