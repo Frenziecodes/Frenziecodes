@@ -12,7 +12,8 @@
 <br>
 
 
-<a href="twitter.com">![twitter](https://user-images.githubusercontent.com/104835999/208291659-1031a7c4-f56c-4ab8-9ff9-d9702808dd47.jpg)</a>
+Follow me on social media 
 
+<a href="https://twitter.com/coder_flame">![twitter](https://user-images.githubusercontent.com/104835999/208291730-8342d19b-91e7-4292-8b8d-0a0b49de9efd.jpg)</a>
 
 
