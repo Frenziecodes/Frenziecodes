@@ -16,7 +16,7 @@ Let's Connect
 
 <a href="https://twitter.com/coder_flame">![icons8-twitter-circled-50](https://user-images.githubusercontent.com/104835999/208292654-85432b17-17d2-4e1c-a013-a167a981ab50.png)</a>
 <a href="https://instagram.com/its_lewyyy">![icons8-instagram-50](https://user-images.githubusercontent.com/104835999/208292644-fd55105f-430e-457a-b7ab-2efd05d81225.png)</a>
-<a href="https://youtube.com/lewisushindi">![icons8-youtube-50](https://user-images.githubusercontent.com/104835999/208292657-232f7a66-19a8-4f38-be0f-a279665a5ef7.png)</a>
+<a href="https://youtube.com/@lewisushindi">![icons8-youtube-50](https://user-images.githubusercontent.com/104835999/208292657-232f7a66-19a8-4f38-be0f-a279665a5ef7.png)</a>
 <a href="https://facebook.com/ushindi lewis">![icons8-facebook-50](https://user-images.githubusercontent.com/104835999/208292660-8225c03e-b4b3-4422-ab14-5aaafa5dc147.png)</a>
 
 
