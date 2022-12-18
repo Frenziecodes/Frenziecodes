@@ -12,8 +12,9 @@
 <br>
 
 
-Follow me on social media 
+Reach me via  social media 
 
 <a href="https://twitter.com/coder_flame">![twitter](https://user-images.githubusercontent.com/104835999/208291730-8342d19b-91e7-4292-8b8d-0a0b49de9efd.jpg)</a>
+<a href="https://instagram.com/its_lewyyy">![instagram](https://user-images.githubusercontent.com/104835999/208291850-343407ea-0e80-4925-b48a-1b87414d6cfb.jpg)</a>
 
 
