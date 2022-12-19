@@ -11,6 +11,7 @@
 ⚡ Available for part-time/full-time/project-based work.
 <br>
 
+<hr>
 
 Let's Connect
 
