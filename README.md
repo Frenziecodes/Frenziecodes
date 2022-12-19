@@ -20,6 +20,7 @@ Let's Connect
 <a href="https://youtube.com/@lewisushindi">![icons8-youtube-50](https://user-images.githubusercontent.com/104835999/208292657-232f7a66-19a8-4f38-be0f-a279665a5ef7.png)</a>
 <a href="https://facebook.com/ushindi lewis">![icons8-facebook-50](https://user-images.githubusercontent.com/104835999/208292660-8225c03e-b4b3-4422-ab14-5aaafa5dc147.png)</a>
 
+<hr>
 
 Languages
 
