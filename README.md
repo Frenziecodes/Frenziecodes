@@ -31,9 +31,8 @@ Languages
 ![icons8-git-48](https://user-images.githubusercontent.com/104835999/208292661-d555798a-7f82-4a8c-b78e-34ef30a910fb.png)
 ![icons8-sass-48](https://user-images.githubusercontent.com/104835999/208292648-88abe8da-5be9-4acd-bda5-187edb86f26d.png)
 ![icons8-tailwindcss-48](https://user-images.githubusercontent.com/104835999/208292649-ef09137d-987c-4d73-85a2-6989dad89bd3.png)
-<a href="https://www.flaticon.com/free-icons/php" title="php icons"></a>
-
-
+![icons8-php-logo-32](https://user-images.githubusercontent.com/104835999/209365639-ba941ff2-eb55-46b2-854e-856ed548445b.png)
+![icons8-sql-32](https://user-images.githubusercontent.com/104835999/209365680-30872ab5-bff2-4720-8eb3-e79c1e55b954.png)
 
 
 
