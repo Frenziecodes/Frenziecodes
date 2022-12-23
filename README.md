@@ -22,7 +22,7 @@ Let's Connect
 
 <hr>
 
-Languages
+skills
 
 ![icons8-html-5-50](https://user-images.githubusercontent.com/104835999/208292662-bc61aca6-5fb3-48f6-8e28-1bccbbcdb2a4.png)
 ![icons8-css3-50](https://user-images.githubusercontent.com/104835999/208292658-5158978f-edd1-4907-b93c-eed78ed31408.png)
