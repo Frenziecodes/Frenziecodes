@@ -1,14 +1,14 @@
 ### 👋 Hello ,I'm Lewyy
 
-👋 🔭 Currently working on personal projects
+**.**  🔭 Currently working on personal projects
 <br>
-**.** 🌱 Always learning  new tech skills.
+**.**  🌱 Always learning  new tech skills.
 <br>
-**.** 👯 Aspiring to work on business critical projects to gain relevant work experience.
+**.**  👯 Aspiring to work on business critical projects to gain relevant work experience.
 <br>
-**.** 💬 Ask me about **Php ** and **Vue.js**
+**.**  💬 Ask me about **Php** and **Vue.js**
 <br>
-**.** ⚡ coding + Music = My daiy Life
+**.**  ⚡ coding + Music = My daiy Life
 <br>
 
 
