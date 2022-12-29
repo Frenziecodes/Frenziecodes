@@ -24,15 +24,22 @@
 
 ### skills
 
-![icons8-html-5-50](https://user-images.githubusercontent.com/104835999/208292662-bc61aca6-5fb3-48f6-8e28-1bccbbcdb2a4.png)
-![icons8-css3-50](https://user-images.githubusercontent.com/104835999/208292658-5158978f-edd1-4907-b93c-eed78ed31408.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/104835999/208292647-103384ca-48eb-487b-ba8e-e229214c0ab4.png)
-![icons8-vue-js-48](https://user-images.githubusercontent.com/104835999/208292655-c7ccf0f3-1dd6-44cc-a202-8ea5934654d2.png)
-![icons8-git-48](https://user-images.githubusercontent.com/104835999/208292661-d555798a-7f82-4a8c-b78e-34ef30a910fb.png)
-![icons8-sass-48](https://user-images.githubusercontent.com/104835999/208292648-88abe8da-5be9-4acd-bda5-187edb86f26d.png)
-![icons8-tailwindcss-48](https://user-images.githubusercontent.com/104835999/208292649-ef09137d-987c-4d73-85a2-6989dad89bd3.png)
-![icons8-php-logo-32](https://user-images.githubusercontent.com/104835999/209365639-ba941ff2-eb55-46b2-854e-856ed548445b.png)
-![icons8-sql-32](https://user-images.githubusercontent.com/104835999/209365680-30872ab5-bff2-4720-8eb3-e79c1e55b954.png)
+<div style="
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    background: #2c3968;
+    width: 80px;
+    height: 5rem;
+            ">
+  <img src="![html](https://user-images.githubusercontent.com/104835999/209948574-4f38a5e3-5114-4395-bc47-1f961d227cb9.png)" alt="">
+  <p>Html</p>
+</div>
+
+
+
 
 
 
