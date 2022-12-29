@@ -15,9 +15,13 @@
 
 ### Tech skills
 
-![Screenshot (62)](https://user-images.githubusercontent.com/104835999/209978743-d20c67dc-5e1f-4f0a-83f0-c74e38c462d0.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/104835999/209978744-0ab15bde-6319-4cfb-bd63-6c3518f3d3c5.png)
-![Screenshot (71)](https://user-images.githubusercontent.com/104835999/209978747-e38c6808-875d-4521-84d4-e0d17bbfe308.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/104835999/209978750-a8a1e5ad-1562-4fc8-834f-e2041cad8bfb.png)
-![Screenshot (73)](https://user-images.githubusercontent.com/104835999/209978753-4479743c-66f5-453d-a318-9b3ef3bf886b.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209978756-2d8397e0-8870-486c-a18d-9176abd0cd7c.png)
+
+![Screenshot (76)](https://user-images.githubusercontent.com/104835999/209979907-7ca720ae-ad5f-49ef-a29c-5feeb7da33d1.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/104835999/209979913-d2ad0f8d-ec90-4198-83a8-3dc7bb5728a1.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209979917-da2d2b00-a05b-4e15-a089-a24aeaa5c79b.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/104835999/209979918-1b855ce2-e67e-4d13-879c-eea3710cab10.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/104835999/209979922-c10c5dbe-7c51-44b5-940b-c6f57078b91a.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/104835999/209979925-007ad1c1-08d5-499e-b184-fa19a11c8351.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/104835999/209979927-c36e9717-23c4-4b7e-9f80-6a68db2359c1.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/104835999/209979928-f8ac54bc-0419-4e61-bec6-650d6d9723c5.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/104835999/209979930-396f3794-96c5-468a-a8c2-452f4352677c.png)
