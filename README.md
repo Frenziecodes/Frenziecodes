@@ -24,22 +24,10 @@
 
 ### skills
 
-<div style="
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 13px;
-    background: #2c3968;
-    width: 80px;
-    height: 5rem;
-            ">
-    
-  ![html](https://user-images.githubusercontent.com/104835999/209948574-4f38a5e3-5114-4395-bc47-1f961d227cb9.png
-  <p>Html</p>
-</div>
 
 
+
+![html](https://user-images.githubusercontent.com/104835999/209948889-c14ccd99-8e7b-4fa8-99f6-a829316b8197.png)
 
 
 
