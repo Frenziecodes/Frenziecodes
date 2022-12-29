@@ -34,7 +34,8 @@
     width: 80px;
     height: 5rem;
             ">
-  <img src="![html](https://user-images.githubusercontent.com/104835999/209948574-4f38a5e3-5114-4395-bc47-1f961d227cb9.png)" alt="">
+    
+  ![html](https://user-images.githubusercontent.com/104835999/209948574-4f38a5e3-5114-4395-bc47-1f961d227cb9.png
   <p>Html</p>
 </div>
 
