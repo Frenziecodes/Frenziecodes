@@ -15,13 +15,9 @@
 
 ### Tech skills
 
-![Screenshot (71)](https://user-images.githubusercontent.com/104835999/209977651-f6b66120-342e-4af5-883a-9f95926e71ba.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/104835999/209977654-89ec6737-3879-47ab-a299-19dd0d721efb.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/104835999/209977671-089fa024-33ab-45fe-88a1-78ea5dce0087.png)
-![Screenshot (70)](https://user-images.githubusercontent.com/104835999/209977674-7e6acbb1-6001-4fa5-b732-fe7281024d6e.png)
-![Screenshot (59)](https://user-images.githubusercontent.com/104835999/209977656-d359b4a1-aad3-469a-a72f-a6b85808d3ab.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209977658-efffb961-c93b-4fbf-9277-9ef407d94c09.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/104835999/209977661-140d6692-e716-4579-888c-db90e64d61a3.png)
-![Screenshot (64)](https://user-images.githubusercontent.com/104835999/209977663-d1b88f40-2049-4be1-bfad-06179c064f0a.png)
-![Screenshot (65)](https://user-images.githubusercontent.com/104835999/209977666-d998c00f-3c04-47e5-baac-51b2fe42f219.png)
-
+![Screenshot (62)](https://user-images.githubusercontent.com/104835999/209978743-d20c67dc-5e1f-4f0a-83f0-c74e38c462d0.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/104835999/209978744-0ab15bde-6319-4cfb-bd63-6c3518f3d3c5.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/104835999/209978747-e38c6808-875d-4521-84d4-e0d17bbfe308.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/104835999/209978750-a8a1e5ad-1562-4fc8-834f-e2041cad8bfb.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/104835999/209978753-4479743c-66f5-453d-a318-9b3ef3bf886b.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209978756-2d8397e0-8870-486c-a18d-9176abd0cd7c.png)
