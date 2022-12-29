@@ -1,14 +1,14 @@
-### 👋 Hello There ,I'm Lewyy
+### 👋 Hello ,I'm Lewyy
 
-🔭 been developing and maintaining the user interface for more than 1 year.
+👋 🔭 Currently working on personal projects
 <br>
-🌱 Always ready to learn and develop new tech skills.
+**.** 🌱 Always learning  new tech skills.
 <br>
-👯 Aspiring to work on business critical projects to gain relevant work experience.
+**.** 👯 Aspiring to work on business critical projects to gain relevant work experience.
 <br>
-💬 Ask me about web development.
+**.** 💬 Ask me about **Php ** and **Vue.js**
 <br>
-⚡ Available for part-time/full-time/project-based work.
+**.** ⚡ coding + Music = My daiy Life
 <br>
 
 
