@@ -12,7 +12,7 @@
 <br>
 
 
-### Tech skills
+### Technologies i use
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/104835999/209979928-f8ac54bc-0419-4e61-bec6-650d6d9723c5.png)
 ![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209979917-da2d2b00-a05b-4e15-a089-a24aeaa5c79b.png)
