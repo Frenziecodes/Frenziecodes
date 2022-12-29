@@ -13,7 +13,7 @@
 
 <hr>
 
-Let's Connect
+### Let's Connect
 
 <a href="https://twitter.com/coder_flame">![icons8-twitter-circled-50](https://user-images.githubusercontent.com/104835999/208292654-85432b17-17d2-4e1c-a013-a167a981ab50.png)</a>
 <a href="https://instagram.com/its_lewyyy">![icons8-instagram-50](https://user-images.githubusercontent.com/104835999/208292644-fd55105f-430e-457a-b7ab-2efd05d81225.png)</a>
@@ -22,7 +22,7 @@ Let's Connect
 
 <hr>
 
-skills
+### skills
 
 ![icons8-html-5-50](https://user-images.githubusercontent.com/104835999/208292662-bc61aca6-5fb3-48f6-8e28-1bccbbcdb2a4.png)
 ![icons8-css3-50](https://user-images.githubusercontent.com/104835999/208292658-5158978f-edd1-4907-b93c-eed78ed31408.png)
