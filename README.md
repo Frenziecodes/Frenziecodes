@@ -1,14 +1,6 @@
-### 👋 Hello ,I'm Lewyy
+### 
+![Screenshot (89)](https://user-images.githubusercontent.com/104835999/211185434-4863120a-2066-42e7-b661-02263a193a82.png)
 
-**.**  🔭 Currently working on personal projects
-<br>
-**.**  🌱 Always learning  new tech skills.
-<br>
-**.**  👯 Aspiring to work on business critical projects to gain relevant work experience.
-<br>
-**.**  💬 Ask me about **Php** and **Vue.js**
-<br>
-**.**  ⚡ coding + Music = My daiy Life
 <br>
 
 
