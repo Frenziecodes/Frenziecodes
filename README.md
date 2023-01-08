@@ -4,16 +4,12 @@
 
 
 ### Technologies i use
-
-![Screenshot (73)](https://user-images.githubusercontent.com/104835999/209979928-f8ac54bc-0419-4e61-bec6-650d6d9723c5.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/104835999/209979917-da2d2b00-a05b-4e15-a089-a24aeaa5c79b.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/104835999/209979922-c10c5dbe-7c51-44b5-940b-c6f57078b91a.png)
-![Screenshot (71)](https://user-images.githubusercontent.com/104835999/209979925-007ad1c1-08d5-499e-b184-fa19a11c8351.png)
-![Screenshot (72)](https://user-images.githubusercontent.com/104835999/209979927-c36e9717-23c4-4b7e-9f80-6a68db2359c1.png)
-![Screenshot (75)](https://user-images.githubusercontent.com/104835999/209979930-396f3794-96c5-468a-a8c2-452f4352677c.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/104835999/209979918-1b855ce2-e67e-4d13-879c-eea3710cab10.png)
-![Screenshot (76)](https://user-images.githubusercontent.com/104835999/209979907-7ca720ae-ad5f-49ef-a29c-5feeb7da33d1.png)
-![Screenshot (77)](https://user-images.githubusercontent.com/104835999/209979913-d2ad0f8d-ec90-4198-83a8-3dc7bb5728a1.png)
-
-
-
+![Screenshot (90)](https://user-images.githubusercontent.com/104835999/211186740-f308c536-4ad0-43ec-9dbb-fbdaf2bfe320.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/104835999/211186744-459467bd-eca5-436d-ab7b-295e1fd9db50.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/104835999/211186753-6a163cc0-23b9-4c0f-9de4-19c75ce704e7.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/104835999/211186760-fe15518f-3321-4f82-9f49-3d29927a6b1c.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/104835999/211186768-6d765fdd-f4bd-47cd-b555-322f7042087a.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/104835999/211186777-49342f24-fd39-4d9b-b418-4310fb8a62ac.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/104835999/211186785-72c75f57-4606-4f0e-9728-7e877b4c05d8.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/104835999/211186792-1bfe1c77-f1c9-402a-b539-8021cb1d1c82.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/104835999/211186796-da0df388-3a17-4dae-ab2f-6d5f8afb9c6d.png)
