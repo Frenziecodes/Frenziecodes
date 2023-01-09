@@ -16,5 +16,7 @@
 ![Screenshot (97)](https://user-images.githubusercontent.com/104835999/211186792-1bfe1c77-f1c9-402a-b539-8021cb1d1c82.png)
 
 
-<img src ="{https://github-readme-stats.vercel.app/api/top-langs/?username={lewisushindi}}" />
+<img src ="{https://github-readme-stats.vercel.app/api/top-langs/?username={lewisushindi}&theme={highcontrast}}" />
+
+<img src ="{https://github-readme-streak-stats.herokuapp.com/?user={lewisushindi}&theme={highcontrast}}" />
 
