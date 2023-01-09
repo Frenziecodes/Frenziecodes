@@ -16,6 +16,5 @@
 ![Screenshot (97)](https://user-images.githubusercontent.com/104835999/211186792-1bfe1c77-f1c9-402a-b539-8021cb1d1c82.png)
 
 
-### https://github-readme-stats.vercel.app/api/top-langs/?username={lewisushindi}
 
 
