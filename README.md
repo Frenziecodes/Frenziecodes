@@ -1,6 +1,8 @@
-### Hi There i'm Lewyy
+### Hi there 👋  i'm Lewyy
 
-<p> Front End Web Developer<>
+    👨🏿‍💻
+    
+<p> Front End Web Developer</p>
 
 <br>
 
