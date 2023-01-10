@@ -6,6 +6,10 @@
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lewisushindi)](https://git.io/streak-stats)
+
+
+
 
 
 
