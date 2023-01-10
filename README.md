@@ -1,5 +1,8 @@
 ### Hi there 👋  i'm Lewyy
 
+![image](https://user-images.githubusercontent.com/104835999/211662784-043b9347-c369-4b00-90c1-02588bfabbeb.png)
+
+
 
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=gruvbox_duo)](https://git.io/streak-stats)
 
