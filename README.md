@@ -1,6 +1,4 @@
-### Hi there 👋  i'm Lewyy
-
-![image](https://user-images.githubusercontent.com/104835999/211662784-043b9347-c369-4b00-90c1-02588bfabbeb.png)
+### ![image](https://user-images.githubusercontent.com/104835999/211662784-043b9347-c369-4b00-90c1-02588bfabbeb.png)
 
 
 
