@@ -1,7 +1,7 @@
 ### Hi there 👋  i'm Lewyy
 
 
-### [![GitHub Streak](https://streak-stats.demolab.com/?user=lewisushindi)](https://git.io/streak-stats)
+### [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 </br>
 
