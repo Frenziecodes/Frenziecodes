@@ -9,8 +9,7 @@
 ### Let's Connect
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/coder_flame?color=informational&label=Twitter&style=social">
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 
 
