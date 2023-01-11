@@ -5,7 +5,7 @@
 ### Activities
 
 <a href="">
-  <img align="center" src="![Lewis ushindi GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=github_dark&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=github_dark&show_icons=true" />
 </a>
 
 
