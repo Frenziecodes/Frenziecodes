@@ -10,7 +10,7 @@
 
 <div align="center"> 
   [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo)](https://git.io/streak-stats)
-<div>
+</div>
 
 
 
