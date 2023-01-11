@@ -9,7 +9,7 @@
   <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
 </a>
 <a href ="">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack,vue&theme=github_dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack&theme=github_dark"/>
 </>
 
 
