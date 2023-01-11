@@ -20,7 +20,8 @@
 <div> 
   
 ### Let's Connect
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/coder_flame?color=informational&label=Twitter&style=social">
+  <a href="twitter.com/coder_flame"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/coder_flame    color=informational&label=Twitter&style=social">
+  </a>
 
 ### Support me 
 <a href="buymeacoffee.com/coderflame6">![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) </a>
