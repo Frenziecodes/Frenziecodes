@@ -3,7 +3,7 @@
 </br>
 
 ### [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=gruvbox_duo)](https://git.io/streak-stats)
-![Lewis ushindi GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=gruvbox)
+![Lewis ushindi GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=gruvbox_duo)
 
 </br>
 
