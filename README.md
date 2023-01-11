@@ -5,7 +5,7 @@
 ### Activities
 [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=gruvbox_duo)](https://git.io/streak-stats)
 ![Lewis ushindi GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=gruvbox_light&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,html,GLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
