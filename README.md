@@ -8,16 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=github_dark&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo)](https://git.io/streak-stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
 </a>
-
-<div align="center"> 
-  [![GitHub Streak]()
-</div>
-
-
-
-
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack&theme=github_dark&layout=compact)](https://github.com/lewisushindi/github-readme-stats)
 
