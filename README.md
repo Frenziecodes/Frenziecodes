@@ -6,7 +6,7 @@
 
 ![Lewis ushindi GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=github_dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lewisushindi&theme=gruvbox_duo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack&theme=github_dark&layout=compact)](https://github.com/lewisushindi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack,vue&theme=github_dark&layout=compact)](https://github.com/lewisushindi/github-readme-stats)
 
 
 </br>
