@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=github_dark&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=github_dark)](https://git.io/streak-stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=highcontrasthttps://git.io/streak-stats" />
 </a>
 <a href="">
  
