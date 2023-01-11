@@ -10,10 +10,10 @@
 <a href="">
   <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
 </a>
- <a href ="">
+<a href ="">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=GLSL,html,hack&theme=github_dark&layout=compact"/>
-  </>
-[![Top Langs]()](https://github.com/lewisushindi/github-readme-stats)
+</>
+
 
 
 
