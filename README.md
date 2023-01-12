@@ -4,13 +4,13 @@
 
 ### <h2 align="center" text="center"> Stats! </h2>
 
-
-<a href="">
-  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
-</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisushindi&count_private=true&theme=vue_dark&show_icons=true" />
 </a>
+<a href="">
+  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
+</a>
+
 
 </br>
 
@@ -26,8 +26,6 @@
 
 
 
-### Let's Connect
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/coder_flame?color=informational&label=Twitter&style=social">
 
 
   
