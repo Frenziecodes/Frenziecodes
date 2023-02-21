@@ -2,17 +2,25 @@
 
 </br>
 
-### <h2 align="center" text="center"> Stats! </h2>
-<a href="">
-  <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
-</a>
-
-<br/>  
-# <div align="center">Web Developer</div>  
+#### <div align="center">WEB DEVELOPER</div>  
 <br/>
 - 🌱 I’m currently learning Wordpress plugin development
+<br/>
 - ✉️ How to reach me [contact@ushindilewis1@gmail.com](mailto:contact@ushindilewis1@gmail.com) 
 <br/>
+
+### <h2 align="center" text="center"> Stats! </h2>
+<div align="center"> 
+<img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+<br />
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -51,8 +59,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
 
 
   
