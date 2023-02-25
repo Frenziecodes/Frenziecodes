@@ -5,8 +5,7 @@
 #### <div align="center">WEB DEVELOPER</div>  
 <br/>
 - 🌱 I’m currently learning Wordpress plugin development
-<br/>
-- ✉️ How to reach me [contact](mailto:ushindilewis1@gmail.com) 
+
 <br/>
 
 ### <h2 align="center" text="center"> Stats! </h2>
