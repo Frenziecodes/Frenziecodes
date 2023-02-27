@@ -13,6 +13,7 @@
 <img align="center" src="https://streak-stats.demolab.com?user=lewisushindi&theme=blueberry_duo"/>
 </div>
 
+<br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
