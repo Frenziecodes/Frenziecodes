@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Lewis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-End+Developer)
   
 <br/>
 - 🌱 I’m currently learning Wordpress plugin development and vue.js
