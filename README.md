@@ -1,10 +1,9 @@
-### ![image](https://user-images.githubusercontent.com/104835999/211662784-043b9347-c369-4b00-90c1-02588bfabbeb.png)
+<h2 align="center">Hi there, I'm Lewis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-</br>
-
-#### <div align="center">WEB DEVELOPER</div>  
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer)
+  
 <br/>
-- 🌱 I’m currently learning Wordpress plugin development
+- 🌱 I’m currently learning Wordpress plugin development and vue.js
 
 <br/>
 
