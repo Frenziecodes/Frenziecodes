@@ -3,7 +3,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer)
   
 <br/>
-- 🌱 I’m currently learning Wordpress plugin development and vue.js
+- 🌱 I’m currently learning Wordpress plugin development and React.js
 
 <br/>
 
