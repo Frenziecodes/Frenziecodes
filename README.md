@@ -4,7 +4,9 @@
   
 <br/>
 - 🌱 I’m currently learning Wordpress plugin development and React.js
+<br />
 - ⚡ Available for  freelance or remote work
+<br />
 - 📫 How to reach me: ushindilewis1@gmail.com
 
 <br/>
