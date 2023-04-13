@@ -17,6 +17,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <br />
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br />
 
 <table><tr><td valign="top" width="33%">
 
