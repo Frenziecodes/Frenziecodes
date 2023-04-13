@@ -17,10 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <br />
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisushindi&hide=html" align="center" />
-</div>
-<br />
 
 <table><tr><td valign="top" width="33%">
 
