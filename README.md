@@ -1,13 +1,15 @@
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer)
+<!-- ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer) -->
   
 <br/>
-- 🌱 I’m currently learning Wordpress plugin development and React.js
+- 🌐 Building web applications that blend functionality with an exceptional user experience.
 <br />
-- ⚡ Available for hire
+- 🌟 Exploring the endless possibilities of technology and embracing the joy of problem-solving
 <br />
-- 📫 How to reach me: coderflame3@gmail.com
+- ⚡ Available for part-time freelance work
+<br />
+- 📫 Let's connect and create something amazing together! Reach me at [coderflame3@gmail.com].
 
 <br/>
 
