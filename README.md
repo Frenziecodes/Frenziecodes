@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Lewis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer)
   
@@ -7,14 +7,14 @@
 <br />
 - ⚡ Available for hire
 <br />
-- 📫 How to reach me: ushindilewis1@gmail.com
+- 📫 How to reach me: coderflame3@gmail.com
 
 <br/>
 
 ### <h2 align="center" text="center"> Stats! </h2>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lewisushindi&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <br />
 
