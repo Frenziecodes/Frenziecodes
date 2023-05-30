@@ -4,16 +4,13 @@
   
 # Welcome to my Web Development World! 🌎
 
-🚀 Crafting stunning web applications that seamlessly blend functionality with an extraordinary user experience.
+🚀 Crafting stunning web applications.
 
 ✨ Exploring the endless possibilities of technology and turning ideas into captivating digital experiences.
 
-⚡ Available for part-time freelance projects and collaborations that push boundaries and inspire innovation.
+⚡ Available for part-time freelance work.
 
-📫 Let's connect and embark on a journey to create something extraordinary together! You can reach me at [coderflame3@gmail.com](mailto:coderflame3@gmail.com).
-
-Let's turn your vision into reality and make the web a more beautiful and exciting place! 💻🎨
-
+📫 Let's connect! You can reach me at [coderflame3@gmail.com](mailto:coderflame3@gmail.com).
 
 <!-- <br/>
 
