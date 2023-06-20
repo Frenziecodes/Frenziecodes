@@ -12,14 +12,14 @@
 
 📫 Let's connect! You can reach me at [coderflame3@gmail.com](mailto:coderflame3@gmail.com).
 
-<!-- <br/>
+ <br/>
 
 ### <h2 align="center" text="center"> Stats! </h2>
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-<br /> -->
+<br /> 
 
 <!-- <table><tr><td valign="top" width="33%">
 
