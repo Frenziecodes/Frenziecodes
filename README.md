@@ -3,14 +3,15 @@
 <!-- ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer) -->
   
 # Welcome to my Web Development World! 🌎
+💻 Bootsrapping [wpnizzle.com](https://wpnizzle.com)
 
-🚀 Crafting stunning web applications.
+🔭 Building WordPress plugins and themes.
 
-✨ Exploring the endless possibilities of technology and turning ideas into captivating digital experiences.
+💬 Ask me about ReactJs and WordPress plugins
 
 ⚡ Available for part-time freelance work.
 
-📫 Let's connect! You can reach me at [coderflame3@gmail.com](mailto:coderflame3@gmail.com).
+📫 Let's connect! You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
  <br/>
 
