@@ -2,7 +2,7 @@
 
 <!-- ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer) -->
 
-💻 Bootsrapping [wpnizzle.com](https://wpnizzle.com)
+💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com)
 
 🔭 Building WordPress plugins and themes.
 
