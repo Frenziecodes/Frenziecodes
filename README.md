@@ -12,14 +12,15 @@
 
 📫 Let's connect! You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
- <br/>
+<br/>
 
-### <h2 align="center" text="center"> Stats! </h2>
+<h2 align="center">Stats!</h2>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenziecodes&layout=compact&langs_count=3&hide_border=true&hide=html" align="center" />
 </div>
-<br /> 
+<br/>
 
 <!-- <table><tr><td valign="top" width="33%">
 
