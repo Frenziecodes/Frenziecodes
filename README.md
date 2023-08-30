@@ -8,7 +8,7 @@
 
 💬 Ask me about ReactJs and WordPress plugins
 
-⚡ Available for part-time freelance work.
+⚡ Available for part-time work.
 
 📫 Let's connect! You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
