@@ -4,7 +4,7 @@
 
 <!-- 💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com) -->
 
-🔭 Building WordPress plugins and themes.
+🔭 Building WordPress plugins.
 
 <!-- 💬 Ask me about ReactJs and WordPress plugins -->
 
