@@ -2,15 +2,15 @@
 
 <!-- ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Web+Developer) -->
 
-💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com)
+<!-- 💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com) -->
 
 🔭 Building WordPress plugins and themes.
 
-💬 Ask me about ReactJs and WordPress plugins
+<!-- 💬 Ask me about ReactJs and WordPress plugins -->
 
 ⚡ Available for part-time work.
 
-📫 Let's connect! You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
+📫 You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
 <br/>
 
