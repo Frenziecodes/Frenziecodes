@@ -4,13 +4,13 @@
 
 <!-- 💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com) -->
 
-🔭 Building WordPress plugins.
+🔭 Developing WordPress plugins.
 
 <!-- 💬 Ask me about ReactJs and WordPress plugins -->
 
-⚡ Available for part-time work.
+⚡ Open to part-time or contract job opportunities.
 
-📫 You can reach me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
+📫 Contact me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
 <br/>
 
