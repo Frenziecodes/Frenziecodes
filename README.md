@@ -10,7 +10,7 @@
 
 ⚡ Open to part-time or contract job opportunities.
 
-📫 Contact me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
+📫 Contact me at [lewis@zestplugins.com](mailto:lewis@zestplugins.com).
 
 <br/>
 
