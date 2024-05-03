@@ -10,7 +10,7 @@
 
 ⚡ Open to part-time or contract job opportunities.
 
-📫 Contact me at [lewis@zestplugins.com](mailto:lewis@zestplugins.com).
+<!-- 📫 Contact me at [lewis@zestplugins.com](mailto:lewis@zestplugins.com). -->
 
 <br/>
 
