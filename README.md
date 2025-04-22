@@ -14,10 +14,10 @@
 
 <br/>
 
-<h2 align="center">Stats!</h2>
+<!-- <h2 align="center">Stats!</h2>  -->
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Frenziecodes&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenziecodes&layout=compact&langs_count=3&hide_border=true&hide=html" align="center" /> -->
 </div>
 <br/>
