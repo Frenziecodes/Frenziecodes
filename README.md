@@ -10,7 +10,7 @@
 
 ⚡ Open to part-time or contract job opportunities.
 
- 📫 Contact me at [lewis@yoostrap.com](mailto:lewis@yoostrap.com).
+ 📫 Contact me at [frenziecodes@gmail.com](mailto:frenziecodes@gmail.com).
 
 <br/>
 
