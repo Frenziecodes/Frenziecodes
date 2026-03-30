@@ -4,7 +4,7 @@
 
 <!-- 💻 Bootstrapping [wpnizzle.com](https://wpnizzle.com) -->
 
-🔭 Developing WordPress plugins and websites.
+🔭 Developing WordPress plugins.
 
 <!-- 💬 Ask me about ReactJs and WordPress plugins -->
 
